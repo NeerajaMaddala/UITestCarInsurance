@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/MMCarInsurance
+/MMCarInsurance/bin/Debug/netcoreapp3.1
+/MMCarInsurance/obj
